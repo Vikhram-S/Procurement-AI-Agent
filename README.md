@@ -110,3 +110,6 @@ streamlit run app.py
 ## License
 
 MIT License - see LICENSE file for details.
+
+## Contact:
+for any inquiries : vikhrams@saveetha.ac.in
